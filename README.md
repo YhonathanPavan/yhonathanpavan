@@ -1,4 +1,7 @@
-### Eai, bem vindo(a)!! Eu sou o Yhonathan Pavan
+### Eai, bem vindo(a)!! Me chamo Yhonathan Pavan
+
+- :computer: Atualmente trabalho na Compass.UOL
+- :books: Estudando Java
 
 <div align="center">
  <a href="https://github.com/YhonathanPavan">
