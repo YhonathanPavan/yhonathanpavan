@@ -3,7 +3,7 @@
 </div>
 
 - :computer: Estagiário na Compass.UOL
-- :books: Estudando Java
+- :books: Estudando Java (Spring Boot)
 
 <div align="center">
  <a href="https://github.com/yhonathanpavan">
