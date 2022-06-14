@@ -2,7 +2,7 @@
  <h1 align="center"><b> 𝐇𝐞𝐥𝐥𝐨</b> <𝚍𝚎𝚟s/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" height=50px width="10px"></h2>
 </div>
 
-- :computer: Programador Trainee na Compass.UOL
+- :computer: Programador 
 - :books: Estudando Java (Spring Boot)
 
 <div align="center">
