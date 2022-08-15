@@ -3,10 +3,13 @@
 </div>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YhonathanPavan&color=grey&style=plastic&label=Profile+views" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/51124985/184656952-cde83ac4-f4bf-44a5-9f19-ac31bc38045b.gif" alt="animated" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=YhonathanPavan&color=grey&style=plastic&label=Profile+views)
 
 - :computer: Programador 
 - :books: Estudando Java (Spring Boot)
