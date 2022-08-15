@@ -2,6 +2,8 @@
  <h1 align="center"><b> 𝐇𝐞𝐥𝐥𝐨</b> <𝚍𝚎𝚟s/>! 👋</h1>
 </div>
 
+![](https://komarev.com/ghpvc/?username=YhonathanPavan&color=grey&style=plastic&label=Profile+views)
+
 - :computer: Programador 
 - :books: Estudando Java (Spring Boot)
 
@@ -23,9 +25,10 @@
  
 ##
   
-<div>
+<div align="center">
   <a href = "mailto:yhonathannpavan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yhonathan-pavan-365522206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
  ![Snake animation](https://github.com/YhonathanPavan/yhonathanpavan/blob/output/github-contribution-grid-snake.svg)
+
