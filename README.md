@@ -2,13 +2,13 @@
  <h1 align="center"><b> 𝐇𝐞𝐥𝐥𝐨</b> <𝚍𝚎𝚟s/>! 👋</h1>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YhonathanPavan&color=grey&style=plastic&label=Profile+views" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51124985/184656952-cde83ac4-f4bf-44a5-9f19-ac31bc38045b.gif" alt="animated" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=YhonathanPavan&color=grey&style=plastic&label=Profile+views" alt="Profile Views" />
 </p>
+
 
 
 - :computer: Programador 
