@@ -2,10 +2,11 @@
  <h1 align="center"><b> 𝐇𝐞𝐥𝐥𝐨</b> <𝚍𝚎𝚟s/>! 👋</h1>
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51124985/184656952-cde83ac4-f4bf-44a5-9f19-ac31bc38045b.gif" alt="animated" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=YhonathanPavan&color=grey&style=plastic&label=Profile+views)
-
-
-![154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2](https://user-images.githubusercontent.com/51124985/184654577-d086a3e8-c54f-4783-8070-6b41a0830fe9.gif)
 
 - :computer: Programador 
 - :books: Estudando Java (Spring Boot)
